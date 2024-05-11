@@ -41,7 +41,7 @@
   }
   .bar {
     width: var(--width);
-    background-color: whitesmoke;
+    background-color: cornflowerblue;
     margin-right: 2px;
     margin-left: 5px;
     display: inline-block;
